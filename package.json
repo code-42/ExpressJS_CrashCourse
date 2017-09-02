@@ -1,0 +1,25 @@
+{
+  "name": "expressjs_crashcourse",
+  "version": "1.0.0",
+  "description": "tutorial https://www.youtube.com/watch?v=gnsO8-xJ8rs&t=203s",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-42/ExpressJS_CrashCourse.git"
+  },
+  "keywords": [
+    "express.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-42/ExpressJS_CrashCourse/issues"
+  },
+  "homepage": "https://github.com/code-42/ExpressJS_CrashCourse#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
